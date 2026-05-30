@@ -8,7 +8,7 @@ Java Full Stack Developer
 - ⚡ Fast learner — quick to adapt to new technologies
 - 🎯 Detail-oriented and passionate about clean code
   
-### Social Presence
+**Social Presence**
 <br />
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
