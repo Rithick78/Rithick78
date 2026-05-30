@@ -1,13 +1,11 @@
-## Hi there 👋 It's me Rithick
+## Hi there 👋 It's me Rithick Jackson
 
-Frontend Developer @ Highbrow Technology
+Java Full Stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [portfolio](https://portfoliorj8.netlify.app/)
-- 🌱 I'm currently learning and building with HTML, CSS, JavaScript, React JS, Next JS, and Tailwind CSS
-- 💼 Engineering at [Highbrow Technology](https://www.highbrowtechnology.com/)
+- 🌱 I'm currently learning Data Structures & Algorithms.
 - 🎓 Fresher | Open to opportunities
-- ⚡ Fun fact: I know Japanese.
 - 📧 rithickjackson8@gmail.com
 
 ### Social Presence
@@ -45,14 +43,10 @@ Frontend Developer @ Highbrow Technology
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img height="50" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-![Rithick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rithick78&theme=dark&show_icons=true&&hide=issues,contribs)
+📈 [Rithick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rithick78&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Rithick-jackson?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/Rithick-jackson)
 
