@@ -19,6 +19,7 @@ Java Full Stack Developer 🧑🏻‍💻
 <br/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **Frontend**
 <br/>
@@ -38,7 +39,6 @@ Java Full Stack Developer 🧑🏻‍💻
 **Database**
 <br/>
 <img height="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **IDE and Tools I Use**
 <br/>
