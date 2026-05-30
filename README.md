@@ -3,15 +3,15 @@
 Java Full Stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my [portfolio](https://portfoliorj8.netlify.app/)
-- 🌱 I'm currently learning Data Structures & Algorithms.
-- 🎓 Fresher | Open to opportunities
-- 📧 rithickjackson8@gmail.com
-
+- 🧠 Strong problem solver with logical thinking
+- 💡 Creative thinker who loves building real-world projects
+- ⚡ Fast learner — quick to adapt to new technologies
+- 🎯 Detail-oriented and passionate about clean code
+  
 ### Social Presence
 <br />
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rithickjackson)
-[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rithick.jackson)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
 
 ### 🛠️ Tech Stack
 
