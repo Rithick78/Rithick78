@@ -40,7 +40,8 @@ Java Full Stack Developer
 <img height="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### IDE and Tools I Use
+**IDE and Tools I Use**
+<br/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
