@@ -58,6 +58,8 @@ Java Full Stack Developer 🧑🏻‍💻
 
 **Rithick Jackson**
 
-- 🌐 Portfolio: [your-portfolio-link.com](https://rithickjacksonportfolio7.netlify.app/)
-- 💼 LinkedIn: [linkedin.com/in/rithickjackson](https://www.linkedin.com/in/rithickjackson/)
-- 🧩 LeetCode: [leetcode.com/u/Rithick-jackson](https://leetcode.com/u/Rithick-jackson/)
+- 🌐 [Portfolio](https://rithickjacksonportfolio7.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rithickjackson/)
+- 📧 [rithickjacksonv@gmail.com](mailto:rithickjacksonv@gmail.com)
+- 🧩 [Leetcode](https://leetcode.com/u/Rithick-jackson/)
+
