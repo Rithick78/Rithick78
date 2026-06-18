@@ -52,3 +52,12 @@ Java Full Stack Developer 🧑🏻‍💻
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Rithick-jackson?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/Rithick-jackson)
 
 [![Rithick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithick78&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Rithick78)
+
+
+## 📬 Contact
+
+**Rithick Jackson**
+
+- 🌐 Portfolio: [your-portfolio-link.com](https://rithickjacksonportfolio7.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/rithickjackson](https://www.linkedin.com/in/rithickjackson/)
+- 🧩 LeetCode: [leetcode.com/u/Rithick-jackson](https://leetcode.com/u/Rithick-jackson/)
