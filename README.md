@@ -46,6 +46,8 @@ Java Full Stack Developer 🧑🏻‍💻
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img height="60" width="60" src="https://img.icons8.com/color/96/docker.png" alt="Docker"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
 
 📈 [Rithick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rithick78&theme=dark&show_icons=true&&hide=issues,contribs)
 
